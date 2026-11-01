@@ -1,4 +1,4 @@
 Plaintext
-yfinance
-pypdf
-pandas
+pandas==2.2.2
+pypdf==4.2.0
+yfinance==0.2.40
