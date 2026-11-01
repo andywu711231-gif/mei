@@ -1,0 +1,88 @@
+{
+    "12727-1": {
+        "name": "預設大戶客戶",
+        "positions": [
+            {
+                "case_no": "FCN-2026-001",
+                "pos_name": "輝達台積電優利連動",
+                "principal": 150000,
+                "coupon_rate": 10.0,
+                "start_date": "2026-01-01",
+                "end_date": "2027-01-01",
+                "target_1": {
+                    "symbol": "NVDA",
+                    "init_price": 220.0,
+                    "strike_price": 173.12,
+                    "ki_price": 143.84
+                },
+                "target_2": {
+                    "symbol": "TSM",
+                    "init_price": 150.0,
+                    "strike_price": 120.0,
+                    "ki_price": 95.0
+                },
+                "target_3": {
+                    "symbol": "",
+                    "init_price": 0,
+                    "strike_price": 0,
+                    "ki_price": 0
+                },
+                "target_4": {
+                    "symbol": "",
+                    "init_price": 0,
+                    "strike_price": 0,
+                    "ki_price": 0
+                },
+                "target_5": {
+                    "symbol": "",
+                    "init_price": 0,
+                    "strike_price": 0,
+                    "ki_price": 0
+                }
+            }
+        ]
+    },
+    "11278-1": {
+        "name": "客戶 11278-1",
+        "positions": [
+            {
+                "case_no": "FCN-2026-002",
+                "pos_name": "美股精選連動收益",
+                "principal": 50000.0,
+                "coupon_rate": 11.5,
+                "start_date": "2026-01-01",
+                "end_date": "2027-01-01",
+                "target_1": {
+                    "symbol": "NVDA",
+                    "init_price": 220.0,
+                    "strike_price": 173.12,
+                    "ki_price": 143.84
+                },
+                "target_2": {
+                    "symbol": "TSM",
+                    "init_price": 150.0,
+                    "strike_price": 120.0,
+                    "ki_price": 95.0
+                },
+                "target_3": {
+                    "symbol": "",
+                    "init_price": 0.0,
+                    "strike_price": 0.0,
+                    "ki_price": 0.0
+                },
+                "target_4": {
+                    "symbol": "",
+                    "init_price": 0.0,
+                    "strike_price": 0.0,
+                    "ki_price": 0.0
+                },
+                "target_5": {
+                    "symbol": "",
+                    "init_price": 0.0,
+                    "strike_price": 0.0,
+                    "ki_price": 0.0
+                }
+            }
+        ]
+    }
+}
